@@ -1,0 +1,25 @@
+/* New styles for the skills section */
+#skills table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+#skills table td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+#skills ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+
+#skills ul li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+#skills ul li strong {
+    font-weight: bold;
+}
