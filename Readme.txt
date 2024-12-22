@@ -1,4 +1,4 @@
-This website was created based on iPortfolio!
+This website was built using iPortfolio!
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
