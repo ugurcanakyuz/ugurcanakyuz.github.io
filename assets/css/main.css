@@ -648,10 +648,6 @@ section,
   line-height: 0;
 }
 
-.about p{
-  text-align: justify;
-}
-
 
 /*--------------------------------------------------------------
 # Stats Section
@@ -782,9 +778,6 @@ section,
   border: 2px solid var(--accent-color);
 }
 
-.about p{
-  text-align: justify;
-}
 
 /*--------------------------------------------------------------
 # Portfolio Section
