@@ -504,7 +504,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 60px 0;
+  padding: 60px 30px;
   overflow: clip;
 }
 
@@ -512,7 +512,7 @@ section,
 # Global Section Titles
 --------------------------------------------------------------*/
 .section-title {
-  padding-bottom: 60px;
+  padding-bottom: 20px;
   position: relative;
 }
 
@@ -546,7 +546,7 @@ section,
   width: 100%;
   min-height: 100vh;
   position: relative;
-  padding: 80px 0;
+  padding: 80px 30px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -730,6 +730,10 @@ section,
   margin-bottom: 20px;
 }
 
+.resume .row > div:first-child .resume-title {
+  margin-top: 0;
+}
+
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
@@ -748,7 +752,7 @@ section,
 
 .resume .resume-item h5 {
   font-size: 16px;
-  padding: 5px 15px;
+  padding: 5px 0px;
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
